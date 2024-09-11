@@ -7,3 +7,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/Sir-Thom/kitty
+[submodule "fastfetch"]
+	path = fastfetch
+	url = https://github.com/Sir-Thom/fastfetch

@@ -1,4 +1,6 @@
 *
+!fastfetch/*
+!slime
 !wezterm/*
 !nvim/*
 !.gitignore
