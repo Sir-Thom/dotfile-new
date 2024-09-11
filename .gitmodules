@@ -4,3 +4,6 @@
 [submodule "wezterm"]
 	path = wezterm
 	url = https://github.com/Sir-Thom/wezterm
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/Sir-Thom/kitty
